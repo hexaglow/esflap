@@ -6,3 +6,5 @@ To run this project, you will need:
 - An SPI SSD1306 128x16 pixel monochrome OLED display.
 
 Configure the pins used for the peripherals in the [pins.hpp](src/pins.hpp) file. Build using [platformio](http://platformio.org).
+
+This project is available under the [Mozilla Public License 2.0](LICENSE.txt).
